@@ -35,7 +35,7 @@ public class Login  {
 
     public static void clickDay(){
         ogmLoginPage.clickDay();
-        ogmLoginPage.SetDay();
+
     }
 
 }
