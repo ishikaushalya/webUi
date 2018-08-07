@@ -134,7 +134,6 @@
                                 <scope>runtime</scope>
                             </dependency>
                             <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-
                         </dependencies>
                     </plugin>
                 </plugins>
